@@ -11,6 +11,6 @@ pip install requests
 </div>
 <div>
 <h3>
-You get the file for < a href="discohook.org"> Discohook</ a>, which you can load through the JSON Editor
+You get the file for <a href="discohook.org"> Discohook</a>, which you can load through the JSON Editor
 </h3>
 </div>
