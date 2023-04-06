@@ -9,3 +9,8 @@ pip install beautifulsoup4
 <div>
 pip install requests
 </div>
+<div>
+<h3>
+You get the file for discohook.org, which you can load through the JSON Editor
+</h3>
+</div>
