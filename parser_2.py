@@ -6,7 +6,7 @@ import os
 URL_TEMPLATE = "https://www.leagueoflegends.com/ru-ru/news/tags/patch-notes/"
 r = requests.get(URL_TEMPLATE)
 soup = bs(r.content, 'html.parser')
-path = "C:/Users/durba/Desktop/PatchNotesGenerator-master/json"
+path = "YOUR DIRECTORY FOR JSON SAVE" # Директория для сохранения JSON файлов
 if not os.path.exists(path):
     os.makedirs(path)
 # Берём линк, после парсим на название тайтла обновы
